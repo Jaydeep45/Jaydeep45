@@ -27,6 +27,6 @@
   <img align="right" alt="Jaydeep45's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydeep45&exclude_repo=github-readme-stats" />
 </details>
 
-[twitter]: https://twitter.com/JRavat45
+[twitter]: https://twitter.com/JRavat007
 [linkedin]: https://www.linkedin.com/in/jaydeep-ravat-b286a7177
 [instagram]: https://www.instagram.com/jaydeepravat007
