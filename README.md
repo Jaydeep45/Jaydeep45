@@ -13,27 +13,37 @@
   - Designed and implemented scalable microservice architectures for enterprise clients
 - 📅 **Current Goal:** Build innovative and impactful solutions, and contribute to open-source projects
 
+---
+
+
 ## Skills and Experience
 - **Languages:** Java, Kotlin, Python, JavaScript
 - **Frameworks & Tools:** Spring Boot, Spring Cloud, Spring Security, Hibernate, JPA, Docker, Kubernetes
 - **Databases:** MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch
 - **Others:** Apache Kafka, RESTful APIs, Microservices, Git, Elasticsearch
 
+---
+
 ## Connect with me
-[<img align="left" alt="Jaydeep |Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Jaydeep | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jaydeep | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/JRavat007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydeep-ravat)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaydeepravat007)
 <br>
 
-[twitter]: https://twitter.com/JRavat007
+[X]: https://x.com/JRavat007
 [linkedin]: https://www.linkedin.com/in/jaydeep-ravat
 [instagram]: https://www.instagram.com/jaydeepravat007
 
+---
+
+
 ##  Metrics & Activity
 
-[![Jaydeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaydeep45&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Jaydeep's GitHub stats](https://github-stats-extended.vercel.app/api?username=Jaydeep45&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jaydeep45&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydeep45&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Jaydeep45&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
